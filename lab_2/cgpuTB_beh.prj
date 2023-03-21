@@ -1,0 +1,2 @@
+vhdl work "cgpu.vhd"
+vhdl work "cgpuTB.vhd"

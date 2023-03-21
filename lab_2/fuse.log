@@ -1,0 +1,24 @@
+Running: C:\Xilinx\13.4\ISE_DS\ISE\bin\nt\unwrapped\fuse.exe -intstyle ise -incremental -o C:/Xilinx/lab2/claa4bTB_isim_beh.exe -prj C:/Xilinx/lab2/claa4bTB_beh.prj work.claa4bTB 
+ISim O.87xd (signature 0x2f00eba5)
+Number of CPUs detected in this system: 4
+Turning on mult-threading, number of parallel sub-compilation jobs: 8 
+Determining compilation order of HDL files
+Parsing VHDL file "C:/Xilinx/lab2/su.vhd" into library work
+Parsing VHDL file "C:/Xilinx/lab2/clau.vhd" into library work
+Parsing VHDL file "C:/Xilinx/lab2/cgpu.vhd" into library work
+Parsing VHDL file "C:/Xilinx/lab2/claa4b.vhd" into library work
+Parsing VHDL file "C:/Xilinx/lab2/claa4bTB.vhd" into library work
+Starting static elaboration
+Completed static elaboration
+Fuse Memory Usage: 90260 KB
+Fuse CPU Usage: 436 ms
+Compiling package standard
+Compiling package std_logic_1164
+Compiling architecture behavioral of entity cgpu [cgpu_default]
+Compiling architecture behavioral of entity clau [clau_default]
+Compiling architecture behavioral of entity su [su_default]
+Compiling architecture behavioral of entity claa4b [claa4b_default]
+Compiling architecture behavior of entity claa4btb
+Time Resolution for simulation is 1ps.
+Waiting for 1 sub-compilation(s) to finish...
+ERROR:Simulator:861 - Failed to link the design

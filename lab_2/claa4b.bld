@@ -1,0 +1,50 @@
+Release 13.4 ngdbuild O.87xd (nt)
+Copyright (c) 1995-2011 Xilinx, Inc.  All rights reserved.
+
+Command Line: C:\Xilinx\13.4\ISE_DS\ISE\bin\nt\unwrapped\ngdbuild.exe -intstyle
+ise -dd _ngo -nt timestamp -i -p xc3s100e-cp132-5 claa4b.ngc claa4b.ngd
+
+Reading NGO file "C:/Xilinx/lab2/claa4b.ngc" ...
+Gathering constraint information from source properties...
+Done.
+
+Resolving constraint associations...
+Checking Constraint Associations...
+Done...
+
+Checking expanded design ...
+ERROR:NgdBuild:604 - logical block 'CPGU' with type
+   'carry_propagate_generate_unit' could not be resolved. A pin name misspelling
+   can cause this, a missing edif or ngc file, case mismatch between the block
+   name and the edif or ngc file name, or the misspelling of a type name. Symbol
+   'carry_propagate_generate_unit' is not supported in target 'spartan3e'.
+ERROR:NgdBuild:604 - logical block 'CLAU' with type 'carry_look_ahead_unit'
+   could not be resolved. A pin name misspelling can cause this, a missing edif
+   or ngc file, case mismatch between the block name and the edif or ngc file
+   name, or the misspelling of a type name. Symbol 'carry_look_ahead_unit' is
+   not supported in target 'spartan3e'.
+ERROR:NgdBuild:604 - logical block 'SU' with type 'sum_unit' could not be
+   resolved. A pin name misspelling can cause this, a missing edif or ngc file,
+   case mismatch between the block name and the edif or ngc file name, or the
+   misspelling of a type name. Symbol 'sum_unit' is not supported in target
+   'spartan3e'.
+
+Partition Implementation Status
+-------------------------------
+
+  No Partitions were found in this design.
+
+-------------------------------
+
+NGDBUILD Design Results Summary:
+  Number of errors:     3
+  Number of warnings:   0
+
+Total memory usage is 119524 kilobytes
+
+Total REAL time to NGDBUILD completion:  2 sec
+Total CPU time to NGDBUILD completion:   2 sec
+
+One or more errors were found during NGDBUILD.  No NGD file will be written.
+
+Writing NGDBUILD log file "claa4b.bld"...

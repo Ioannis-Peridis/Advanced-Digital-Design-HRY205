@@ -1,0 +1,3 @@
+xst -intstyle ise -ifn "C:/Xilinx/lab2/claa4b.xst" -ofn "C:/Xilinx/lab2/claa4b.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc3s100e-cp132-5 claa4b.ngc claa4b.ngd  
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc3s100e-cp132-5 claa4b.ngc claa4b.ngd  

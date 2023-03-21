@@ -1,0 +1,18 @@
+V3 15
+FL C:/Xilinx/lab2/cgpu.vhd 2020/03/23.21:35:47 O.87xd
+EN work/cgpu 1584992541 FL C:/Xilinx/lab2/cgpu.vhd PB ieee/std_logic_1164 1325952872
+AR work/cgpu/Behavioral 1584992542 \
+      FL C:/Xilinx/lab2/cgpu.vhd EN work/cgpu 1584992541
+FL C:/Xilinx/lab2/claa4b.vhd 2020/03/23.22:10:56 O.87xd
+EN work/claa4b 1584994808 FL C:/Xilinx/lab2/claa4b.vhd PB ieee/std_logic_1164 1325952872
+AR work/claa4b/Behavioral 1584994809 \
+      FL C:/Xilinx/lab2/claa4b.vhd EN work/claa4b 1584994808 \
+      CP carry_propagate_generate_unit CP carry_look_ahead_unit CP sum_unit
+FL C:/Xilinx/lab2/clau.vhd 2020/03/23.21:41:51 O.87xd
+EN work/clau 1584992568 FL C:/Xilinx/lab2/clau.vhd PB ieee/std_logic_1164 1325952872
+AR work/clau/Behavioral 1584992569 \
+      FL C:/Xilinx/lab2/clau.vhd EN work/clau 1584992568
+FL C:/Xilinx/lab2/su.vhd 2020/03/23.21:45:54 O.87xd
+EN work/su 1584992795 FL C:/Xilinx/lab2/su.vhd PB ieee/std_logic_1164 1325952872
+AR work/su/Behavioral 1584992796 \
+      FL C:/Xilinx/lab2/su.vhd EN work/su 1584992795

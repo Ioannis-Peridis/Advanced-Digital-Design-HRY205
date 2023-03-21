@@ -1,0 +1,5 @@
+vhdl work "su.vhd"
+vhdl work "clau.vhd"
+vhdl work "cgpu.vhd"
+vhdl work "claa4b.vhd"
+vhdl work "claa4bTB.vhd"

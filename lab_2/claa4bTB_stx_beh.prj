@@ -1,0 +1,5 @@
+vhdl isim_temp "su.vhd"
+vhdl isim_temp "clau.vhd"
+vhdl isim_temp "cgpu.vhd"
+vhdl isim_temp "claa4b.vhd"
+vhdl isim_temp "claa4bTB.vhd"
