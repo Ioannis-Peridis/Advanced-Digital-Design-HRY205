@@ -5,4 +5,4 @@ with professor : Apostolos Dollas
 
 from: Techincal University Of Crete
 
-Imlementationin VHDL: Half and Full Adders, Simple counter, Strange Counter, Riple Carry Adder, Carry Look Ahead Counter, Json Counter, FSM machine Mealy and Moore
+Imlementationin VHDL: Half and Full Adders, Simple counter, Strange Counter, Riple Carry Adder, Carry Look Ahead Adder, Json Counter, FSM machine Mealy and Moore
